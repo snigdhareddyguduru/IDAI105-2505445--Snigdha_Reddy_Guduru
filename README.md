@@ -40,29 +40,6 @@ blackfriday_data_mining_ai
 ├── requirements_blackfriday_ai.txt
 ```
 
-How to Run the Application
----------------------------
-
-Open the terminal and move to the project directory.
-
-```bash
-cd ~/Documents/blackfriday_data_mining_ai
-```
-
-Install the Python libraries required for the project.
-
-```bash
-pip3 install -r requirements_blackfriday_ai.txt
-```
-
-Run the Streamlit application.
-
-```bash
-streamlit run bf_sales_intelligence_portal.py
-```
-
-Once the command is executed, the Streamlit application will automatically open in the browser where the application can be navigated.
-
  Technologies Used
 
 The programming language used for this project was Python. The analysis was done using libraries such as Pandas and NumPy for data analysis, Matplotlib and Seaborn for data visualization, Scikit-learn for cluster analysis, SciPy for anomaly detection, and Streamlit for creating the interactive dashboard.
