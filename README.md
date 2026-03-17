@@ -47,3 +47,5 @@ The programming language used for this project was Python. The analysis was done
 Conclusion
 
 The above analysis shows that data mining can be used to gain insights into the purchasing behavior of customers during retail sales events. By analyzing customer segments, product relationships, and anomalies in purchasing behavior, businesses can make informed decisions. The interactive dashboard created in this project can be used to present the insights gained from the analysis.
+
+LINK :https://yqqivab6v8i2bxppd7xejq.streamlit.app/
